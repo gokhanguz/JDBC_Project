@@ -13,11 +13,7 @@ public class EU3_Practice {
             // click on compare
         // create a pull request (PR)
              // to asl original repo owner
-             // to merge your change
-
-        //we have added new branch fgg35
-        //to work on the project
-        //adding more changes
+             // to merge your change  
     }
 
 }
